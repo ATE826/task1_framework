@@ -1308,11 +1308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\A) НЕ УДАЛЯТЬ\\Фреймворки\\Моё\\Практика 1\\task1_framework\\task1_framework.csproj",
+      "projectUniqueName": "C:\\A) НЕ УДАЛЯТЬ\\Фреймворки\\Практика 1\\task1_framework\\task1_framework.csproj",
       "projectName": "task1_framework",
-      "projectPath": "C:\\A) НЕ УДАЛЯТЬ\\Фреймворки\\Моё\\Практика 1\\task1_framework\\task1_framework.csproj",
+      "projectPath": "C:\\A) НЕ УДАЛЯТЬ\\Фреймворки\\Практика 1\\task1_framework\\task1_framework.csproj",
       "packagesPath": "C:\\Users\\ToniTsey\\.nuget\\packages\\",
-      "outputPath": "C:\\A) НЕ УДАЛЯТЬ\\Фреймворки\\Моё\\Практика 1\\task1_framework\\obj\\",
+      "outputPath": "C:\\A) НЕ УДАЛЯТЬ\\Фреймворки\\Практика 1\\task1_framework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ToniTsey\\AppData\\Roaming\\NuGet\\NuGet.Config"
